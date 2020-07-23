@@ -1,0 +1,31 @@
+.button_post{
+    margin-left: 40px;
+    width: 120px;
+}
+
+.button_calcel{
+    width: 120px;
+}
+
+.div_first_post{
+    padding-right: unset !important;
+}
+
+.div_input_post{
+    padding: 30px;
+}
+
+.newbtn{
+    cursor: pointer;
+}
+
+#output{
+    height:120px;
+    width:120px;
+    margin-top: 20px;
+}
+
+#blah{
+    max-width:160px;
+    height:160px;
+}

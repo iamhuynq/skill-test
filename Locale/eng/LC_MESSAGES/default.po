@@ -1,0 +1,639 @@
+msgid "Message ID"
+msgstr "Text (EN)"
+
+msgid "template_02-t2"
+msgstr "TMH Tech.Lab WebAppBasc Test"
+
+msgid "template_02-t5"
+msgstr "Twitter"
+
+msgid "template_02-t5"
+msgstr "Facebook"
+
+msgid "002-01-1"
+msgstr "New Post"
+
+msgid "002-01-2"
+msgstr "From"
+
+msgid "002-01-4"
+msgstr "To"
+
+msgid "002-01-7"
+msgstr ""
+
+msgid "002-01-8"
+msgstr "Search"
+
+msgid "002-01-11"
+msgstr "Tweet_id"
+
+msgid "002-01-12"
+msgstr "Message"
+
+msgid "002-01-13"
+msgstr "Retweet"
+
+msgid "002-01-14"
+msgstr "Favorite"
+
+msgid "002-01-15"
+msgstr "Post Date"
+
+msgid "002-01-16"
+msgstr "Delete"
+
+msgid "002-01-22"
+msgstr ""
+
+msgid "002-01-23"
+msgstr "No Data"
+
+msgid "002-02-1"
+msgstr "New Post"
+
+msgid "002-02-3"
+msgstr "YYYY/MM/DD"
+
+msgid "002-02-4"
+msgstr "To"
+
+msgid "002-02-7"
+msgstr ""
+
+msgid "002-02-8"
+msgstr "Search"
+
+msgid "002-02-11"
+msgstr "Tweet_id"
+
+msgid "002-02-12"
+msgstr "Message"
+
+msgid "002-02-13"
+msgstr "Retweet"
+
+msgid "002-02-14"
+msgstr "Favorite"
+
+msgid "002-02-15"
+msgstr "Post Date"
+
+msgid "002-02-16"
+msgstr "Delete"
+
+msgid "002-02-22"
+msgstr ""
+
+msgid "002-02-23"
+msgstr "No Data"
+
+msgid "004-01-7"
+msgstr "Cancel"
+
+msgid "004-01-8"
+msgstr "Post"
+
+msgid "004-01-9"
+msgstr "Success"
+
+msgid "004-01-10"
+msgstr "OK"
+
+msgid "Message ID"
+msgstr "Text (EN)"
+
+msgid "template_02-t2"
+msgstr "TMH Tech.Lab WebAppBasc Test"
+
+msgid "template_02-t5"
+msgstr "Twitter"
+
+msgid "template_02-t5"
+msgstr "Facebook"
+
+msgid "002-01-1"
+msgstr "New Post"
+
+msgid "002-01-2"
+msgstr "From"
+
+msgid "002-01-4"
+msgstr "To"
+
+msgid "002-01-7"
+msgstr ""
+
+msgid "002-01-8"
+msgstr "Search"
+
+msgid "002-01-11"
+msgstr "Tweet_id"
+
+msgid "002-01-12"
+msgstr "Message"
+
+msgid "002-01-13"
+msgstr "Retweet"
+
+msgid "002-01-14"
+msgstr "Favorite"
+
+msgid "002-01-15"
+msgstr "Post Date"
+
+msgid "002-01-16"
+msgstr "Delete"
+
+msgid "002-01-22"
+msgstr ""
+
+msgid "002-01-23"
+msgstr "No Data"
+
+msgid "002-02-1"
+msgstr "New Post"
+
+msgid "002-02-3"
+msgstr "YYYY/MM/DD"
+
+msgid "002-02-4"
+msgstr "To"
+
+msgid "002-02-7"
+msgstr ""
+
+msgid "002-02-8"
+msgstr "Search"
+
+msgid "002-02-11"
+msgstr "Tweet_id"
+
+msgid "002-02-12"
+msgstr "Message"
+
+msgid "002-02-13"
+msgstr "Retweet"
+
+msgid "002-02-14"
+msgstr "Favorite"
+
+msgid "002-02-15"
+msgstr "Post Date"
+
+msgid "002-02-16"
+msgstr "Delete"
+
+msgid "002-02-22"
+msgstr ""
+
+msgid "002-02-23"
+msgstr "No Data"
+
+msgid "004-01-7"
+msgstr "Cancel"
+
+msgid "004-01-8"
+msgstr "Post"
+
+msgid "004-01-9"
+msgstr "Success"
+
+msgid "004-01-10"
+msgstr "OK"
+
+msgid "Message ID"
+msgstr "Text (EN)"
+
+msgid "template_02-t2"
+msgstr "TMH Tech.Lab WebAppBasc Test"
+
+msgid "template_02-t5"
+msgstr "Twitter"
+
+msgid "template_02-t6"
+msgstr "Facebook"
+
+msgid "002-01-1"
+msgstr "New Post"
+
+msgid "002-01-2"
+msgstr "From"
+
+msgid "002-01-4"
+msgstr "To"
+
+msgid "002-01-6"
+msgstr "Download"
+
+msgid "002-01-7"
+msgstr ""
+
+msgid "002-01-8"
+msgstr "Search"
+
+msgid "002-01-11"
+msgstr "Tweet_id"
+
+msgid "002-01-12"
+msgstr "Message"
+
+msgid "002-01-13"
+msgstr "Retweet"
+
+msgid "002-01-14"
+msgstr "Favorite"
+
+msgid "002-01-15"
+msgstr "Post Date"
+
+msgid "002-01-16"
+msgstr "Delete"
+
+msgid "002-01-22"
+msgstr ""
+
+msgid "002-01-23"
+msgstr "No Data"
+
+msgid "002-02-1"
+msgstr "New Post"
+
+msgid "002-02-3"
+msgstr "YYYY/MM/DD"
+
+msgid "002-02-4"
+msgstr "To"
+
+msgid "002-02-6"
+msgstr "Download"
+
+msgid "002-02-7"
+msgstr ""
+
+msgid "002-02-8"
+msgstr "Search"
+
+msgid "002-02-11"
+msgstr "Tweet_id"
+
+msgid "002-02-12"
+msgstr "Message"
+
+msgid "002-02-13"
+msgstr "Retweet"
+
+msgid "002-02-14"
+msgstr "Favorite"
+
+msgid "002-02-15"
+msgstr "Post Date"
+
+msgid "002-02-16"
+msgstr "Delete"
+
+msgid "002-02-22"
+msgstr ""
+
+msgid "002-02-23"
+msgstr "No Data"
+
+msgid "004-01-3"
+msgstr "Add File Image"
+
+msgid "004-01-7"
+msgstr "Cancel"
+
+msgid "004-01-8"
+msgstr "Post"
+
+msgid "004-01-9"
+msgstr "Success"
+
+msgid "004-01-10"
+msgstr "OK"
+
+msgid "Message ID"
+msgstr "Text (EN)"
+
+msgid "template_02-t2"
+msgstr "TMH Tech.Lab WebAppBasc Test"
+
+msgid "template_02-t5"
+msgstr "Twitter"
+
+msgid "template_02-t6"
+msgstr "Facebook"
+
+msgid "002-01-1"
+msgstr "New Post"
+
+msgid "002-01-2"
+msgstr "From"
+
+msgid "002-01-4"
+msgstr "To"
+
+msgid "002-01-6"
+msgstr "Download"
+
+msgid "002-01-7"
+msgstr ""
+
+msgid "002-01-8"
+msgstr "Search"
+
+msgid "002-01-11"
+msgstr "Tweet_id"
+
+msgid "002-01-12"
+msgstr "Message"
+
+msgid "002-01-13"
+msgstr "Retweet"
+
+msgid "002-01-14"
+msgstr "Favorite"
+
+msgid "002-01-15"
+msgstr "Post Date"
+
+msgid "002-01-16"
+msgstr "Delete"
+
+msgid "002-01-22"
+msgstr ""
+
+msgid "002-01-23"
+msgstr "No Data"
+
+msgid "002-02-1"
+msgstr "New Post"
+
+msgid "002-02-3"
+msgstr "YYYY/MM/DD"
+
+msgid "002-02-4"
+msgstr "To"
+
+msgid "002-02-6"
+msgstr "Download"
+
+msgid "002-02-7"
+msgstr ""
+
+msgid "002-02-8"
+msgstr "Search"
+
+msgid "002-02-11"
+msgstr "Tweet_id"
+
+msgid "002-02-12"
+msgstr "Message"
+
+msgid "002-02-13"
+msgstr "Retweet"
+
+msgid "002-02-14"
+msgstr "Favorite"
+
+msgid "002-02-15"
+msgstr "Post Date"
+
+msgid "002-02-16"
+msgstr "Delete"
+
+msgid "002-02-22"
+msgstr ""
+
+msgid "002-02-23"
+msgstr "No Data"
+
+msgid "004-01-7"
+msgstr "Cancel"
+
+msgid "004-01-8"
+msgstr "Post"
+
+msgid "004-01-9"
+msgstr "Success"
+
+msgid "004-01-10"
+msgstr "OK"
+
+msgid "Message ID"
+msgstr "Text (EN)"
+
+msgid "template_02-t2"
+msgstr "TMH Tech.Lab WebAppBasc Test"
+
+msgid "template_02-t5"
+msgstr "Twitter"
+
+msgid "template_02-t6"
+msgstr "Facebook"
+
+msgid "002-01-1"
+msgstr "New Post"
+
+msgid "002-01-2"
+msgstr "From"
+
+msgid "002-01-4"
+msgstr "To"
+
+msgid "002-01-6"
+msgstr "Download"
+
+msgid "002-01-7"
+msgstr ""
+
+msgid "002-01-8"
+msgstr "Search"
+
+msgid "002-01-11"
+msgstr "Tweet_id"
+
+msgid "002-01-12"
+msgstr "Message"
+
+msgid "002-01-13"
+msgstr "Retweet"
+
+msgid "002-01-14"
+msgstr "Favorite"
+
+msgid "002-01-15"
+msgstr "Post Date"
+
+msgid "002-01-16"
+msgstr "Delete"
+
+msgid "002-01-22"
+msgstr ""
+
+msgid "002-01-23"
+msgstr "No Data"
+
+msgid "002-02-1"
+msgstr "New Post"
+
+msgid "002-02-2"
+msgstr "From"
+
+msgid "002-02-4"
+msgstr "To"
+
+msgid "002-02-6"
+msgstr "Download"
+
+msgid "002-02-7"
+msgstr ""
+
+msgid "002-02-8"
+msgstr "Search"
+
+msgid "002-02-11"
+msgstr "Tweet_id"
+
+msgid "002-02-12"
+msgstr "Message"
+
+msgid "002-02-13"
+msgstr "Retweet"
+
+msgid "002-02-14"
+msgstr "Favorite"
+
+msgid "002-02-15"
+msgstr "Post Date"
+
+msgid "002-02-16"
+msgstr "Delete"
+
+msgid "002-02-22"
+msgstr ""
+
+msgid "002-02-23"
+msgstr "No Data"
+
+msgid "004-01-7"
+msgstr "Cancel"
+
+msgid "004-01-8"
+msgstr "Post"
+
+msgid "004-01-9"
+msgstr "Success"
+
+msgid "004-01-10"
+msgstr "OK"
+
+msgid "Message ID"
+msgstr "Text (EN)"
+
+msgid "template_02-t2"
+msgstr "TMH Tech.Lab WebAppBasc Test"
+
+msgid "template_02-t5"
+msgstr "Twitter"
+
+msgid "template_02-t6"
+msgstr "Facebook"
+
+msgid "002-01-1"
+msgstr "New Post"
+
+msgid "002-01-2"
+msgstr "From"
+
+msgid "002-01-4"
+msgstr "To"
+
+msgid "002-01-6"
+msgstr "Download"
+
+msgid "002-01-7"
+msgstr ""
+
+msgid "002-01-8"
+msgstr "Search"
+
+msgid "002-01-11"
+msgstr "Tweet_id"
+
+msgid "002-01-12"
+msgstr "Message"
+
+msgid "002-01-13"
+msgstr "Retweet"
+
+msgid "002-01-14"
+msgstr "Favorite"
+
+msgid "002-01-15"
+msgstr "Post Date"
+
+msgid "002-01-16"
+msgstr "Delete"
+
+msgid "002-01-22"
+msgstr ""
+
+msgid "002-01-23"
+msgstr "No Data"
+
+msgid "002-02-1"
+msgstr "New Post"
+
+msgid "002-02-2"
+msgstr "From"
+
+msgid "002-02-4"
+msgstr "To"
+
+msgid "002-02-6"
+msgstr "Download"
+
+msgid "002-02-7"
+msgstr ""
+
+msgid "002-02-8"
+msgstr "Search"
+
+msgid "002-02-11"
+msgstr "Feed_id"
+
+msgid "002-02-12"
+msgstr "Message"
+
+msgid "002-02-13"
+msgstr "Like"
+
+msgid "002-02-14"
+msgstr "Comment"
+
+msgid "002-02-15"
+msgstr "Post Date"
+
+msgid "002-02-16"
+msgstr "Delete"
+
+msgid "002-02-22"
+msgstr ""
+
+msgid "002-02-23"
+msgstr "No Data"
+
+msgid "004-01-7"
+msgstr "Cancel"
+
+msgid "004-01-8"
+msgstr "Post"
+
+msgid "004-01-9"
+msgstr "Success"
+
+msgid "004-01-10"
+msgstr "OK"
+

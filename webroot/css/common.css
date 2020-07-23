@@ -1,0 +1,275 @@
+/* global */
+body{
+    min-width:960px;
+}
+
+a {
+    color: black;
+}
+
+/* */
+#page-content-wrapper {
+    padding: 50px;
+}
+
+/* grand/global nav */
+nav.navbar {
+    border-bottom: 1px solid #000;
+}
+
+#navbarNav > ul {
+    margin-left: -1px;
+}
+
+#navbarNav > ul > li {
+    padding: 0 10px;
+    display: inline;
+    border-right: 1px solid #000;
+}
+
+/* bread crumb */
+.breadcrumb > .breadcrumb-item+.breadcrumb-item::before {
+    content: ">";
+}
+
+.breadcrumb {
+    margin-bottom: 0px;
+    border-radius: 0px;
+    border-bottom: 1px solid #000;
+}
+
+/* sidebar */
+
+/* Hide for mobile, show later */
+.sidebar {
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    display: block;
+    padding: 20px 20px 20px 20px;
+    overflow-x: hidden;
+    overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+    background-color: #f5f5f5;
+    border-right: 1px solid #eee;
+}
+
+/* Sidebar navigation */
+.nav-sidebar {
+    margin-right: -21px; /* 20px padding + 1px border */
+    margin-bottom: 20px;
+    margin-left: -20px;
+}
+.nav-sidebar > li > a {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.nav-sidebar > .active > a,
+.nav-sidebar > .active > a:hover,
+.nav-sidebar > .active > a:focus {
+}
+
+.nav-sidebar > li > a:before {
+    content: "▶ ";
+
+}
+
+/* page layout */
+section.page-content-center {
+    margin-top:100px;
+    margin-left:20%;
+    margin-right:20%;
+}
+
+section.column-2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+section.column-sidebar {
+   width: 200px; 
+}
+
+section.column-main{
+    width: 100%;
+}
+
+/* modal */
+.modal-dialog {
+    width:480px !important;
+    max-width:initial !important;
+    margin-top: 10% !important;
+}
+
+.modal-content {
+    border-radius: 0;
+    height: 220px;
+}
+
+.modal-body {
+    text-align:center;
+    margin:80px 0 0 0;
+}
+
+.modal-footer {
+    border: none;
+    justify-content: center; 
+}
+
+/* loading */
+.load {
+-webkit-animation: spin 1s linear infinite;
+-moz-animation: spin 1s linear infinite;
+-ms-animation: spin 1s linear infinite;
+-o-animation: spin 1s linear infinite;
+animation: spin 1s linear infinite;
+}
+
+@-webkit-keyframes spin {
+0% {-webkit-transform: rotate(0deg);}
+100% {-webkit-transform: rotate(360deg);}
+}
+@-moz-keyframes spin {
+0% {-moz-transform: rotate(0deg);}
+100% {-moz-transform: rotate(360deg);}
+}
+@-ms-keyframes spin {
+0% {-ms-transform: rotate(0deg);}
+100% {-ms-transform: rotate(360deg);}
+}
+@-o-keyframes spin {
+0% {-o-transform: rotate(0deg);}
+100% {-o-transform: rotate(360deg);}
+}
+@keyframes spin {
+0% {transform: rotate(0deg);}
+100% {transform: rotate(360deg);}
+}
+
+/* element common */
+.page-header {
+    border-bottom: 1px solid #000;
+}
+
+.container-fluid {
+    padding:10px;
+}
+
+.page-item.page-number {
+    line-height:38px;
+    margin-right:30px;
+}
+
+.file-button {
+    color: white;  
+    padding: 7px 13px 7px 13px;
+    border-radius: 4px;
+}
+
+.date {
+    width: 280px;
+}
+
+input.datepicker {
+    border-top-right-radius: 5px !important;
+    border-bottom-right-radius: 5px !important;
+}
+
+.date > select.hour {
+    margin-left: 10px;
+}
+
+.date > select.hour + span {
+    height: 2.4em;
+    padding-top:0.2em;
+}
+
+div.editor {
+    border:1px solid #ddd;
+    border-radius: 5px;
+    padding:5px;
+}
+
+div.editor > textarea {
+    border:none !important;
+}
+
+div.editor-counter {
+    text-align: right;
+}
+
+img.avatar {
+    border: 1px solid #000;
+    padding:5px;
+}
+
+.photo {
+    position:relative;
+    width:100px;
+}
+
+.photo > img {
+    border: 1px solid #000;
+    padding:5px;
+}
+
+.photo > a > img.remove {
+    border:none;
+    position:absolute;
+    top:5px;
+    right: 5px;
+}
+
+.preview {
+    background-image: url("/img/10.png");
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+    width:190px;
+    height: 381px;
+    position:absolute;
+}
+
+.preview > .preview-content {
+    overflow-x: hidden;
+    overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+    height:310px;
+    width:176px;
+    position:relative;
+    top: 37px;
+    left: 6px;
+    padding:5px;
+}
+
+div.preview-photo {
+}
+
+.preview > div.preview-photo > img.photo {
+    max-height: 100px;
+    max-width: 176px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.preview-body {
+}
+
+div.media-card-wraper {
+   border:1px solid #ccc;
+   padding:10px;
+   display:table;
+   width:550px;
+}
+
+div.media-card-photo {
+    display:table-cell;
+    padding:5px;
+    width: 100px;
+}
+
+div.media-card-photo > img {
+    width: 100px;
+}
+
+div.media-card-info {
+    display:table-cell;
+}
